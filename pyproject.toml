@@ -1,6 +1,6 @@
 [project]
 name = "money-iso"
-version = "4.0.0rc1"
+version = "4.0.0"
 description = "A python library to manage money"
 readme = "README.md"
 repository = "https://github.com/backmarket-oss/money-iso"
